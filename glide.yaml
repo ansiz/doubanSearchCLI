@@ -2,3 +2,7 @@ package: scrapDouban
 import:
 - package: github.com/PuerkitoBio/goquery
   version: v1.4.1
+- package: github.com/urfave/cli
+  version: v1.20.0
+- package: github.com/Sirupsen/logrus
+  version: ^1.0.5

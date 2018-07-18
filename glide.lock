@@ -1,13 +1,26 @@
-hash: d95cf96b93c535294c184d954ca98f2dc0b2d9d4ce4eed3a2b4d3487e4bfe797
-updated: 2018-07-16T17:39:05.544829+08:00
+hash: 916b06ed42c0b90fb32f968884cc126935f0ca17bbc1e1b2187a1d922aea59f9
+updated: 2018-07-18T21:07:42.603484+08:00
 imports:
 - name: github.com/andybalholm/cascadia
   version: 901648c87902174f774fac311d7f176f8647bdaa
 - name: github.com/PuerkitoBio/goquery
   version: dc2ec5c7ca4d9aae063b79b9f581dd3ea6afd2b2
+- name: github.com/Sirupsen/logrus
+  version: c155da19408a8799da419ed3eeb0cb5db0ad5dbc
+- name: github.com/urfave/cli
+  version: cfb38830724cc34fedffe9a2a29fb54fa9169cd1
+- name: golang.org/x/crypto
+  version: 9419663f5a44be8b34ca85f08abc5fe1be11f8a3
+  subpackages:
+  - ssh/terminal
 - name: golang.org/x/net
   version: d0887baf81f4598189d4e12a37c6da86f0bba4d0
   subpackages:
   - html
   - html/atom
+- name: golang.org/x/sys
+  version: f3918c30c5c2cb527c0b071a27c35120a6c0719a
+  subpackages:
+  - unix
+  - windows
 testImports: []
