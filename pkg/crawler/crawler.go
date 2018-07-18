@@ -17,7 +17,7 @@ import (
 
 const (
 	tplShowBook = `
-	书名： 《%s》-- %s		评分：%.1f%s
+	《%s》-- %s		评分：%.1f%s
 	`
 	searchBookURL = `https://www.douban.com/j/search?q=%s&start=%d&cat=1001`
 )
