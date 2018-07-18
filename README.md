@@ -55,7 +55,7 @@ GLOBAL OPTIONS:
 #### Example
 
 ```txt
-dsearch list book --verbose -k "计算机" -p 1
+dsearch list book -k "计算机" -p 1
 
 深入理解计算机系统（原书第2版）》-- （美）Randal E.Bryant / 龚奕利 / 机械工业出版社 / 2011		评分：9.7(2081人评价)
 
