@@ -4,7 +4,7 @@ Search Douban data in command line.
 
 ## Introduction
 
-Search Douban data in command line. （being developed）
+Search Douban data in command line. （being developed）
 
 ### Features
 
