@@ -1,0 +1,4 @@
+package: scrapDouban
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: v1.4.1
