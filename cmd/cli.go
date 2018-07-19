@@ -5,8 +5,7 @@ import (
 	"log"
 	"os"
 
-	"doubanSearchCLI/pkg/crawler"
-
+	"github.com/ansiz/doubanSearchCLI/pkg/crawler"
 	"github.com/urfave/cli"
 )
 
