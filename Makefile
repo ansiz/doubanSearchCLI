@@ -5,4 +5,4 @@ install:
 	mv dsearch /usr/local/bin/
 .PHONY: clean
 clean:
-	-rm socker
+	-rm dsearch
