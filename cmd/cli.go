@@ -66,6 +66,7 @@ func main() {
 							Name:        "page, p",
 							Usage:       "total page",
 							Destination: &bookCrawler.Page,
+							Value:       1,
 						},
 						cli.StringFlag{
 							Name:        "keyword, k",
